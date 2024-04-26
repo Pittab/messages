@@ -8,11 +8,11 @@ function msgs(){
     return
   }
   else if (msg == "Bet you wish you could make this, huh"){
-    msg="Wanna do this? RTFM"
+    msg="What? Never seen a clean chromebook before?"
     document.getElementById("mesage").innerHTML=msg;
     return
   }
-  else if (msg == "Wanna do this? RTFM"){
+  else if (msg == "What? Never seen a clean chromebook before?"){
     msg="Oh, this? It's just web dev"
     document.getElementById("mesage").innerHTML=msg;
     return
