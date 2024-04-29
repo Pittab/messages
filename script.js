@@ -3,11 +3,11 @@ document.getElementById("mesage").innerHTML=msg;
 
 function msgs(){
   if (msg == "It's just javascript, bro"){
-    msg="Bet you wish you could make this, huh"
+    msg="Software engineer go brrr"
     document.getElementById("mesage").innerHTML=msg;
     return
   }
-  else if (msg == "Bet you wish you could make this, huh"){
+  else if (msg == "Software engineer go brrr"){
     msg="What? Never seen a clean chromebook before?"
     document.getElementById("mesage").innerHTML=msg;
     return
